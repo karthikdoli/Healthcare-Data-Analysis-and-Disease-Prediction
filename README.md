@@ -19,9 +19,9 @@ Cardiovascular diseases remain one of the leading causes of morbidity and mortal
 Follow these steps to set up the project locally:
 
 1. Clone the repository:
-   ```sh
-   (https://github.com/karthikdoli/Healthcare-Data-Analysis-and-Disease-Prediction)
-   ```
+   
+   https://github.com/karthikdoli/Healthcare-Data-Analysis-and-Disease-Prediction
+   
 2. Install dependencies:
    ```sh
    pip install -r requirements.txt
