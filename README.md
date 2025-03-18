@@ -20,13 +20,9 @@ Follow these steps to set up the project locally:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/heart-health-checkpoint.git
+   (https://github.com/karthikdoli/Healthcare-Data-Analysis-and-Disease-Prediction)
    ```
-2. Navigate to the project directory:
-   ```sh
-   cd heart-health-checkpoint
-   ```
-3. Install dependencies:
+2. Install dependencies:
    ```sh
    pip install -r requirements.txt
    ```
