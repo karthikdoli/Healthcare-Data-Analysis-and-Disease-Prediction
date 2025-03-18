@@ -1,7 +1,7 @@
-# 🫀 Heart Healthcare Data Analysis and Disease Prediction
+# 🫀 Healthcare Data Analysis and Disease Prediction (Heart)
 
 ## 📌 Overview
-This project analyzes heart health data to identify key factors contributing to cardiovascular diseases. The dataset undergoes exploration, cleaning, and analysis using data science techniques to derive meaningful insights and build predictive models.
+Cardiovascular diseases remain one of the leading causes of morbidity and mortality worldwide. This project aims to analyze heart health data, identify key risk factors, and develop predictive models for early detection and prevention. By leveraging statistical analysis and machine learning techniques, we derive insights that can support clinical decision-making and public health strategies.
 
 ## 📊 Dataset
 - **Source:** [Specify dataset source, e.g., Kaggle or UCI Machine Learning Repository]
@@ -45,17 +45,16 @@ jupyter notebook "Heart Health-checkpoint.ipynb"
 - **Insights & Recommendations**
 
 ## 📈 Results
-- **Key Findings:** Significant factors affecting heart health
-- **Model Performance Metrics:** Accuracy, precision, recall, and more
+- **Key Findings:** Identification of significant clinical and lifestyle factors affecting heart health
+- **Model Performance Metrics:** Evaluation of predictive accuracy, precision, recall, and F1-score
 
 ## 🤝 Contributing
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 ## 📜 License
-[Specify license, e.g., MIT License]
-
+This project is licensed under the **MIT License**. You are free to use, modify, and distribute the code with proper attribution. 
 ## ✍️ Author
-[Your Name]
+Karthik Doli 
 
 ---
 Feel free to update the details based on your project specifics!
