@@ -4,7 +4,7 @@
 Cardiovascular diseases remain one of the leading causes of morbidity and mortality worldwide. This project aims to analyze heart health data, identify key risk factors, and develop predictive models for early detection and prevention. By leveraging statistical analysis and machine learning techniques, we derive insights that can support clinical decision-making and public health strategies.
 
 ## 📊 Dataset
-- **Source:** [Specify dataset source, e.g., Kaggle or UCI Machine Learning Repository]
+- **Source:** (https://github.com/karthikdoli/Healthcare-Data-Analysis-and-Disease-Prediction/blob/main/cardiologist%20dataset.csv) from **Kaggle**
 - **Features:** Age, cholesterol levels, blood pressure, heart rate, etc.
 - **Target Variable:** Presence or absence of heart disease
 
